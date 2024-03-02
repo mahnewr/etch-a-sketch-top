@@ -22,4 +22,17 @@ nav {
 
 #grid-input {
   max-width: 150px;
+  border: 1px solid black;
+}
+
+#grid {
+  display: flex;
+  flex-wrap: wrap;
+  height: 700px;
+  width: 700px;
+  border: 1px solid black;
+}
+
+.grid-box {
+  border: 1px solid black;
 }
